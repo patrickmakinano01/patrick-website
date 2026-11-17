@@ -1,0 +1,20 @@
+PATRICK MAKINANO
+Aspiring Full-Stack Developer | BS Computer Science Student
+
+ABOUT
+BS Computer Science student interested in web development, system development, and database management. Passionate about building practical applications and continuously improving as a developer.
+
+SKILLS
+HTML, CSS, JavaScript, PHP, MySQL, Java, Bootstrap, Git
+
+PROJECTS
+Sari-Sari Store Database Management System
+Campus Event Organizer
+Study Progress Dashboard
+
+CONTACT
+Email: patrick.makinano@example.com
+GitHub: https://github.com/
+Facebook: https://www.facebook.com/
+
+Note: Replace this placeholder file with the final PDF CV when ready.

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550">
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#eff5ff"/><stop offset="1" stop-color="#b9d2fa"/></linearGradient></defs>
+  <rect width="800" height="550" fill="url(#bg)"/>
+  <rect x="96" y="66" width="608" height="418" rx="20" fill="#0a1727"/><rect x="130" y="105" width="185" height="13" rx="7" fill="#76a9ff"/><rect x="130" y="133" width="270" height="9" rx="5" fill="#516b86"/>
+  <rect x="130" y="186" width="168" height="115" rx="12" fill="#15314e"/><rect x="317" y="186" width="168" height="115" rx="12" fill="#15314e"/><rect x="504" y="186" width="166" height="115" rx="12" fill="#4f8cff"/><rect x="130" y="323" width="540" height="121" rx="12" fill="#102942"/>
+  <circle cx="174" cy="231" r="22" fill="#4f8cff"/><rect x="212" y="222" width="55" height="10" rx="5" fill="#abc6e7"/><rect x="212" y="244" width="70" height="8" rx="4" fill="#55728f"/><circle cx="361" cy="231" r="22" fill="#76a9ff"/><rect x="399" y="222" width="55" height="10" rx="5" fill="#abc6e7"/><rect x="399" y="244" width="70" height="8" rx="4" fill="#55728f"/><path d="M157 410h73l26-32 32 18 38-47 32 31 45-55 51 50 35-26 39 28" fill="none" stroke="#76a9ff" stroke-width="6"/><text x="132" y="468" fill="#6e8cab" font-family="monospace" font-size="15">FOCUS / PROGRESS / REPEAT</text>
+</svg>
